@@ -162,3 +162,14 @@ body {
     color: rgb(154, 137, 137);
 }
 /*  */
+
+/* GALLERY */
+.gallery {
+    padding-top: 25px;
+}
+
+.text-gallery {
+    display: flex;
+    justify-content: space-between;
+}
+/*  */
