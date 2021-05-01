@@ -1,0 +1,13 @@
+/* BODY */
+body {
+    font-family: "Noto Sans JP", sans-serif;
+    /* background-image: url("../img/bg01.jpg"); */
+}
+/*  */
+
+/* CONTAINER */
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+/*  */
