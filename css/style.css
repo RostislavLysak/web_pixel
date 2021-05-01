@@ -217,4 +217,28 @@ body {
     color: #fff;
     border-radius: 6px;
 }
+
+.articleList__item h2 {
+    margin: 24px 0 22px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    color: #3f3f3f;
+}
+
+.articleList__item:nth-of-type(3) h2 {
+    margin: 25px 0;
+    font-size: 1.75rem;
+    letter-spacing: 0;
+    color: #000;
+}
+
+.articleList__item p {
+    font-size: 1.305rem;
+    line-height: 42px;
+    text-align: center;
+    color: rgb(139, 139, 132);
+}
 /*  */
