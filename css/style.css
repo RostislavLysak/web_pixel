@@ -65,6 +65,39 @@ body {
 }
 
 .dropmenu {
-    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 135%;
+    height: 0;
+    text-align: center;
+    background: rgba(63, 63, 63, 0.9);
+    border-radius: 8px;
+    opacity: 0;
+    transition: all 1s;
+}
+
+.nav__item:hover .dropmenu {
+    display: block;
+    height: 400px;
+    opacity: 1;
+}
+
+.dropmenu__item {
+    width: 80%;
+    margin: auto;
+    padding: 12px 0;
+    border-bottom: 1px solid #fff;
+}
+
+.dropmenu__item:last-of-type {
+    border: none;
+}
+
+.dropmenu__link {
+    font-size: 1rem;
+    line-height: 3rem;
+    text-decoration: none;
+    color: #fff;
 }
 /*  */
