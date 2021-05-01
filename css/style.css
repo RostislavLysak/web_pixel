@@ -249,3 +249,12 @@ body {
     color: rgb(139, 125, 131);
 }
 /*  */
+
+/* FOOTER */
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 85px 0 65px;
+}
+/*  */
