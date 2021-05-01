@@ -257,4 +257,22 @@ body {
     align-items: center;
     padding: 85px 0 65px;
 }
+
+.footer__top {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 74px;
+}
+
+.navfooter {
+    display: flex;
+    justify-content: space-between;
+    width: 55.8%;
+}
+
+.navfooter__link {
+    font-size: 1.2rem;
+    text-decoration: none;
+}
 /*  */
