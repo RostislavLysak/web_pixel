@@ -129,4 +129,13 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.logo h1 {
+    padding-top: 74px;
+    font-size: 3.2rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+}
 /*  */
