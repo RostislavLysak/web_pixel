@@ -101,3 +101,32 @@ body {
     color: #fff;
 }
 /*  */
+
+/* LOGO */
+.logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 188px;
+}
+
+.logo__block {
+    display: flex;
+    justify-content: center;
+    width: 190px;
+    padding: 56px 0;
+    background-color: rgb(223, 98, 103);
+    border-radius: 50%;
+}
+
+.logo__block::before {
+    content: "";
+    display: block;
+    width: 90px;
+    height: 76px;
+    background-image: url("../img/7q.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*  */
