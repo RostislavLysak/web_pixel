@@ -195,3 +195,26 @@ body {
     margin: 6.06% 0.9% 0;
 }
 /*  */
+
+/* ARTICLELIST */
+.articleList__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 84.5px 0 62px;
+    border-bottom: 3px solid #d2d2d2;
+}
+
+.articleList__item .button {
+    width: 24.7%;
+    padding: 30.5px 0;
+    font-family: "DejaVu Sans";
+    font-size: 1.3rem;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: rgb(223, 98, 103);
+    color: #fff;
+    border-radius: 6px;
+}
+/*  */
