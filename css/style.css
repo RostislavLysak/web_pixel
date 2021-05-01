@@ -64,6 +64,12 @@ body {
     color: #fff;
 }
 
+.nav__link:hover,
+.nav__link.active:hover,
+.dropmenu__link:hover {
+    color: rgb(223, 98, 103);
+}
+
 .dropmenu {
     position: absolute;
     top: 100%;
