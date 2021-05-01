@@ -139,3 +139,19 @@ body {
     color: #000;
 }
 /*  */
+
+/* ARTICLEINFO */
+.articleInfo {
+    padding: 175.4px 0 127px;
+    border-bottom: 2px solid #d2d2d2;
+}
+
+.articleInfo h2 {
+    padding-bottom: 45px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #3f3f3f;
+}
+/*  */
