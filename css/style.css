@@ -279,4 +279,10 @@ body {
 .navfooter__link:first-child {
     margin-left: 50px;
 }
+
+.footer__down {
+    font-size: 1.2rem;
+    text-align: center;
+    letter-spacing: -0.09px;
+}
 /*  */
