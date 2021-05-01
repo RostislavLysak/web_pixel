@@ -185,4 +185,13 @@ body {
     margin: 2px 15px 0 0;
     font-size: 1.35rem;
 }
+
+.galleryBlock {
+    padding-bottom: 49px;
+}
+
+.galleryBlock img {
+    width: 30.61%;
+    margin: 6.06% 0.9% 0;
+}
 /*  */
