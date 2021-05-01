@@ -241,4 +241,11 @@ body {
     text-align: center;
     color: rgb(139, 139, 132);
 }
+
+.articleList__item:nth-of-type(1) p:first-of-type,
+.articleList__item:nth-of-type(2) p:first-of-type {
+    font-size: 1.3rem;
+    line-height: 86px;
+    color: rgb(139, 125, 131);
+}
 /*  */
